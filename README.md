@@ -1,5 +1,5 @@
 Desafio Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE
-Instrutora:Juliana Mascarenhas
+Instrutora: Juliana Mascarenhas
 
 Objetivo do diagrama:
 O sistema gerencia uma plataforma online de vendas onde produtos de diferentes vendedores e terceiros são oferecidos.
